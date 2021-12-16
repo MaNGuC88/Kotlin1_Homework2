@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin1_Homework2</string>
+    <string name="image">image</string>
+    <string name="enterUrl">Введите url картинки</string>
+    <string name="submit">submit</string>
+    <string name="random">random</string>
+</resources>
